@@ -1,14 +1,14 @@
 {
   "root": "/tmp/am-ws/c-1790732969824-7cbk3",
   "name": "c-1790732969824-7cbk3",
-  "generatedAt": "2026-09-30T17:40:19.648Z",
-  "fileCount": 43,
-  "dirCount": 7,
+  "generatedAt": "2026-09-30T20:00:28.593Z",
+  "fileCount": 52,
+  "dirCount": 15,
   "languages": {
     "Markdown": 8,
     "JSON": 5,
     "JavaScript": 2,
-    "TypeScript": 20,
+    "TypeScript": 29,
     "CSS": 1
   },
   "keyFiles": [
@@ -77,11 +77,81 @@
       ]
     },
     {
+      "dir": "src/app/api/explain",
+      "fileCount": 1,
+      "files": [
+        "route.ts"
+      ],
+      "symbols": [
+        {
+          "name": "GET",
+          "kind": "fn"
+        }
+      ]
+    },
+    {
+      "dir": "src/app/approach",
+      "fileCount": 1,
+      "files": [
+        "page.tsx"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/app/contact",
+      "fileCount": 1,
+      "files": [
+        "page.tsx"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/app/insights",
+      "fileCount": 1,
+      "files": [
+        "page.tsx"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/app/insights/[slug]",
+      "fileCount": 1,
+      "files": [
+        "page.tsx"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/app/strategies",
+      "fileCount": 1,
+      "files": [
+        "page.tsx"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/app/team",
+      "fileCount": 1,
+      "files": [
+        "page.tsx"
+      ],
+      "symbols": []
+    },
+    {
       "dir": "src/components",
       "fileCount": 2,
       "files": [
         "Footer.tsx",
         "Header.tsx"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/components/marketing",
+      "fileCount": 2,
+      "files": [
+        "RiskQuestionnaire.tsx",
+        "ScenarioPlanner.tsx"
       ],
       "symbols": []
     },
@@ -114,23 +184,31 @@
       ],
       "symbols": [
         {
-          "name": "Service",
+          "name": "Strategy",
           "kind": "interface"
         },
         {
-          "name": "Practitioner",
+          "name": "TeamMember",
           "kind": "interface"
         },
         {
-          "name": "BlogPost",
+          "name": "InsightPost",
           "kind": "interface"
         },
         {
-          "name": "FaqItem",
+          "name": "ContactFormData",
           "kind": "interface"
         },
         {
-          "name": "BookingFormData",
+          "name": "RiskProfile",
+          "kind": "interface"
+        },
+        {
+          "name": "ScenarioResult",
+          "kind": "interface"
+        },
+        {
+          "name": "ExplainResponse",
           "kind": "interface"
         }
       ]
