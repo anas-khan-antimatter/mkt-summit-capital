@@ -22,7 +22,7 @@ export default function Header() {
       <div className="navy-gradient border-b border-amber-500/10">
         <div className="mx-auto flex h-18 max-w-7xl items-center justify-between px-6">
           <Link href="/" className="group flex items-center gap-2">
-            <span className="text-xl tracking-wider font-heading gold-gradient-text font-semibold">
+            <span className="text-xl tracking-wider font-heading brass-gradient-text font-semibold">
               Summit Capital
             </span>
             <span className="hidden text-[10px] uppercase tracking-[0.3em] text-amber-600/50 sm:block">
