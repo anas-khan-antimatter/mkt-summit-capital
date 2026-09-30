@@ -6,6 +6,7 @@ const footerSections = [
     links: [
       { label: "Approach", href: "/approach" },
       { label: "Strategies", href: "/strategies" },
+      { label: "Allocator", href: "/allocator" },
       { label: "Team", href: "/team" },
     ],
   },
@@ -13,7 +14,7 @@ const footerSections = [
     title: "Knowledge",
     links: [
       { label: "Insights", href: "/insights" },
-      { label: "Resources", href: "/insights" },
+      { label: "Glossary", href: "/glossary" },
     ],
   },
   {
