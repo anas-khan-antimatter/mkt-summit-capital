@@ -103,7 +103,7 @@ export default function Home() {
                   <div className="flex h-10 w-10 items-center justify-center rounded-lg border border-amber-500/20 bg-amber-500/5">
                     <Icon size={18} className="text-amber-500/80" />
                   </div>
-                  <h3 className="mt-5 text-lg font-heading font-medium gold-gradient-text">{card.title}</h3>
+                  <h3 className="mt-5 text-lg font-heading font-medium brass-gradient-text">{card.title}</h3>
                   <p className="mt-2 text-sm leading-relaxed text-slate-400">{card.body}</p>
                 </div>
               );

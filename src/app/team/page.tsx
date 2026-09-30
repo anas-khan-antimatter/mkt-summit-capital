@@ -84,7 +84,7 @@ export default function TeamPage() {
           </h2>
           <Link
             href="/contact"
-            className="mt-8 inline-flex items-center gap-2 rounded-full gold-gradient px-7 py-3 text-sm font-semibold text-[#0b1220] transition-all hover:brightness-110"
+            className="mt-8 inline-flex items-center gap-2 brass-gradient rounded-full px-7 py-3 text-sm font-semibold text-[#070e1a] transition-all hover:brightness-110"
           >
             Request an introduction
             <ArrowRight size={14} />
