@@ -34,7 +34,7 @@ export default function ApproachPage() {
         <div className="mx-auto max-w-7xl">
           <p className="text-xs font-semibold tracking-[0.25em] text-amber-600/60 uppercase">Approach</p>
           <h1 className="mt-4 text-4xl font-heading font-light tracking-tight md:text-5xl">
-            Philosophy of <span className="gold-gradient-text font-semibold">quiet stewardship</span>
+            Philosophy of <span className="brass-gradient-text font-semibold">quiet stewardship</span>
           </h1>
           <p className="mt-4 max-w-2xl text-base text-slate-400 leading-relaxed">
             We believe wealth is a responsibility, not a scoreboard. Our approach is defined by
