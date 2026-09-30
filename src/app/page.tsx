@@ -53,7 +53,7 @@ export default function Home() {
           <h1 className="mt-6 max-w-4xl text-5xl font-light leading-tight tracking-tight md:text-7xl font-heading">
             Capital guided with
             <br />
-            <span className="gold-gradient-text font-semibold">calm conviction</span>
+            <span className="brass-gradient-text font-semibold">calm conviction</span>
           </h1>
           <p className="mt-6 max-w-2xl text-lg text-slate-400 leading-relaxed">
             Summit Capital partners with discerning families and founders to preserve wealth,
