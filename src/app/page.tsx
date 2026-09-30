@@ -62,7 +62,7 @@ export default function Home() {
           <div className="mt-10 flex flex-wrap gap-4">
             <Link
               href="/contact"
-              className="group gold-gradient rounded-full px-7 py-3 text-sm font-semibold text-[#070e1a] transition-all hover:brightness-110 inline-flex items-center gap-2"
+              className="group brass-gradient rounded-full px-7 py-3 text-sm font-semibold text-[#070e1a] transition-all hover:brightness-110 inline-flex items-center gap-2"
             >
               Speak with an advisor
               <ArrowRight size={14} className="transition-transform group-hover:translate-x-0.5" />
