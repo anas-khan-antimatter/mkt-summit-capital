@@ -227,7 +227,7 @@ export default function RiskQuestionnaire() {
           <button
             onClick={() => allAnswered && setCompleted(true)}
             disabled={!allAnswered}
-            className="w-full rounded-full gold-gradient px-5 py-2.5 text-sm font-semibold text-[#0b1220] transition-all hover:brightness-110 disabled:opacity-40 disabled:cursor-not-allowed"
+            className="w-full rounded-full brass-gradient px-5 py-2.5 text-sm font-semibold text-[#070e1a] transition-all hover:brightness-110 disabled:opacity-40 disabled:cursor-not-allowed"
           >
             See my profile
           </button>
