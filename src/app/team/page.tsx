@@ -48,7 +48,7 @@ export default function TeamPage() {
         <div className="mx-auto max-w-7xl">
           <p className="text-xs font-semibold tracking-[0.25em] text-amber-600/60 uppercase">Team</p>
           <h1 className="mt-4 text-4xl font-heading font-light tracking-tight md:text-5xl">
-            Principals you <span className="gold-gradient-text font-semibold">work with</span>
+            Principals you <span className="brass-gradient-text font-semibold">work with</span>
           </h1>
           <p className="mt-4 max-w-2xl text-base text-slate-400 leading-relaxed">
             We are a lean partnership. Every client is managed by a senior principal with direct
