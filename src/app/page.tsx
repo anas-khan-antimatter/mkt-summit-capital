@@ -224,7 +224,7 @@ export default function Home() {
       {/* ---- CTA / CONTACT ---- */}
       <section className="border-t border-amber-500/5 px-6 py-24">
         <div className="mx-auto max-w-7xl">
-          <div className="glass-panel gold-gradient rounded-3xl px-10 py-16 text-center md:px-20 md:py-20">
+          <div className="glass-panel brass-gradient rounded-3xl px-10 py-16 text-center md:px-20 md:py-20">
             <ScrollText size={28} className="mx-auto text-amber-500/60" />
             <h2 className="mt-6 text-3xl font-heading font-light tracking-tight md:text-4xl">
               Begin a private conversation
@@ -236,7 +236,7 @@ export default function Home() {
             <div className="mt-10 flex flex-wrap justify-center gap-4">
               <Link
                 href="/contact"
-                className="gold-gradient rounded-full px-7 py-3 text-sm font-semibold text-[#070e1a] transition-all hover:brightness-110"
+                className="brass-gradient rounded-full px-7 py-3 text-sm font-semibold text-[#070e1a] transition-all hover:brightness-110"
               >
                 Submit an enquiry
               </Link>
