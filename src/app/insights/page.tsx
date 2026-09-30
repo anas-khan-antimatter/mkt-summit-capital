@@ -44,7 +44,7 @@ export default function InsightsPage() {
         <div className="mx-auto max-w-7xl">
           <p className="text-xs font-semibold tracking-[0.25em] text-amber-600/60 uppercase">Insights</p>
           <h1 className="mt-4 text-4xl font-heading font-light tracking-tight md:text-5xl">
-            Market perspective <span className="gold-gradient-text font-semibold">without the noise</span>
+            Market perspective <span className="brass-gradient-text font-semibold">without the noise</span>
           </h1>
           <p className="mt-4 max-w-2xl text-base text-slate-400 leading-relaxed">
             Original research and commentary from our investment committee — written for principals,
@@ -99,7 +99,7 @@ export default function InsightsPage() {
           </p>
           <Link
             href="/contact"
-            className="mt-8 inline-flex items-center gap-2 rounded-full gold-gradient px-7 py-3 text-sm font-semibold text-[#0b1220] transition-all hover:brightness-110"
+            className="mt-8 inline-flex items-center gap-2 brass-gradient rounded-full px-7 py-3 text-sm font-semibold text-[#070e1a] transition-all hover:brightness-110"
           >
             Subscribe
             <ArrowRight size={14} />

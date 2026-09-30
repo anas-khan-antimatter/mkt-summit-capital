@@ -51,7 +51,7 @@ export default function ApproachPage() {
             return (
               <div key={p.title} className="glass-panel rounded-2xl p-8 glow-gold">
                 <Icon size={22} className="text-amber-500/70" />
-                <h2 className="mt-5 text-xl font-heading font-medium gold-gradient-text">{p.title}</h2>
+                <h2 className="mt-5 text-xl font-heading font-medium brass-gradient-text">{p.title}</h2>
                 <p className="mt-3 text-sm leading-relaxed text-slate-400">{p.body}</p>
               </div>
             );
