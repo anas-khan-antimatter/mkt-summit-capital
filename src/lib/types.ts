@@ -1,52 +1,53 @@
-export interface Service {
+export interface Strategy {
   id: string;
   title: string;
-  tagline: string;
+  tag: string;
   description: string;
-  duration: string;
-  price: string;
-  image: string;
-  benefits: string[];
-  category: "body" | "mind" | "energy" | "recovery";
+  details: string;
 }
 
-export interface Practitioner {
+export interface TeamMember {
   id: string;
   name: string;
   title: string;
   bio: string;
-  image: string;
-  specialties: string[];
-  credentials: string[];
+  initials: string;
 }
 
-export interface BlogPost {
+export interface InsightPost {
   id: string;
-  title: string;
   slug: string;
+  title: string;
   excerpt: string;
   content: string;
-  image: string;
-  category: string;
-  author: string;
   date: string;
+  author: string;
   readTime: string;
 }
 
-export interface FaqItem {
-  id: string;
-  question: string;
-  answer: string;
-  category: string;
-}
-
-export interface BookingFormData {
+export interface ContactFormData {
   name: string;
   email: string;
   phone: string;
-  service: string;
-  practitioner: string;
-  date: string;
-  time: string;
-  notes: string;
+  familyOffice: string;
+  message: string;
+}
+
+export interface RiskProfile {
+  score: number;
+  label: string;
+  allocation: { label: string; pct: number; color: string }[];
+}
+
+export interface ScenarioResult {
+  projectedValue: number;
+  totalContributions: number;
+  realGrowth: number;
+}
+
+export interface ExplainResponse {
+  strategy: string;
+  explanation: string;
+  short?: string;
+  source: "ai" | "deterministic";
 }
