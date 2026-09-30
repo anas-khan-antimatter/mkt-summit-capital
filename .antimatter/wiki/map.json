@@ -1,0 +1,126 @@
+{
+  "root": "/tmp/am-ws/c-1790732969824-7cbk3",
+  "name": "c-1790732969824-7cbk3",
+  "generatedAt": "2026-09-30T16:53:53.998Z",
+  "fileCount": 37,
+  "dirCount": 6,
+  "languages": {
+    "Markdown": 3,
+    "JSON": 4,
+    "JavaScript": 2,
+    "TypeScript": 20,
+    "CSS": 1
+  },
+  "keyFiles": [
+    "package.json",
+    "README.md",
+    "tsconfig.json"
+  ],
+  "directories": [
+    {
+      "dir": "(root)",
+      "fileCount": 11,
+      "files": [
+        ".gitignore",
+        "AGENTS.md",
+        "CLAUDE.md",
+        "components.json",
+        "eslint.config.mjs",
+        "next.config.ts",
+        "package-lock.json",
+        "package.json",
+        "postcss.config.mjs",
+        "README.md",
+        "tsconfig.json"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "public",
+      "fileCount": 5,
+      "files": [
+        "file.svg",
+        "globe.svg",
+        "next.svg",
+        "vercel.svg",
+        "window.svg"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/app",
+      "fileCount": 4,
+      "files": [
+        "favicon.ico",
+        "globals.css",
+        "layout.tsx",
+        "page.tsx"
+      ],
+      "symbols": [
+        {
+          "name": "metadata",
+          "kind": "const"
+        }
+      ]
+    },
+    {
+      "dir": "src/components",
+      "fileCount": 2,
+      "files": [
+        "Footer.tsx",
+        "Header.tsx"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/components/ui",
+      "fileCount": 13,
+      "files": [
+        "accordion.tsx",
+        "badge.tsx",
+        "button.tsx",
+        "card.tsx",
+        "dialog.tsx",
+        "input.tsx",
+        "label.tsx",
+        "navigation-menu.tsx",
+        "popover.tsx",
+        "separator.tsx",
+        "sheet.tsx",
+        "tabs.tsx",
+        "textarea.tsx"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/lib",
+      "fileCount": 2,
+      "files": [
+        "types.ts",
+        "utils.ts"
+      ],
+      "symbols": [
+        {
+          "name": "Service",
+          "kind": "interface"
+        },
+        {
+          "name": "Practitioner",
+          "kind": "interface"
+        },
+        {
+          "name": "BlogPost",
+          "kind": "interface"
+        },
+        {
+          "name": "FaqItem",
+          "kind": "interface"
+        },
+        {
+          "name": "BookingFormData",
+          "kind": "interface"
+        }
+      ]
+    }
+  ]
+}

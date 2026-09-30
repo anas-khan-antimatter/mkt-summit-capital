@@ -20,22 +20,20 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: "Summit Capital — Private Wealth",
-  description: "Private wealth management with calm conviction.",
+  description:
+    "Capital guided with calm conviction. Summit Capital partners with discerning families to preserve wealth and compound thoughtfully.",
   keywords: [
-    "wellness",
-    "holistic health",
-    "spa",
-    "cryotherapy",
-    "float tank",
-    "sound healing",
-    "aromatherapy",
-    "meditation",
-    "Aether Wellness",
+    "private wealth",
+    "investment management",
+    "family office",
+    "portfolio management",
+    "estate planning",
+    "Summit Capital",
   ],
   openGraph: {
-    title: "Aether Wellness — Holistic Healing for Body & Mind",
+    title: "Summit Capital — Private Wealth",
     description:
-      "Cutting-edge wellness therapies in a serene spa-like sanctuary.",
+      "Capital guided with calm conviction. Summit Capital partners with discerning families to preserve wealth and compound thoughtfully.",
     type: "website",
     locale: "en_US",
   },
