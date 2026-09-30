@@ -1,12 +1,12 @@
 {
   "root": "/tmp/am-ws/c-1790732969824-7cbk3",
   "name": "c-1790732969824-7cbk3",
-  "generatedAt": "2026-09-30T16:53:53.998Z",
-  "fileCount": 37,
-  "dirCount": 6,
+  "generatedAt": "2026-09-30T17:40:19.648Z",
+  "fileCount": 43,
+  "dirCount": 7,
   "languages": {
-    "Markdown": 3,
-    "JSON": 4,
+    "Markdown": 8,
+    "JSON": 5,
     "JavaScript": 2,
     "TypeScript": 20,
     "CSS": 1
@@ -17,6 +17,19 @@
     "tsconfig.json"
   ],
   "directories": [
+    {
+      "dir": ".antimatter/wiki",
+      "fileCount": 6,
+      "files": [
+        "index.md",
+        "log.md",
+        "map.json",
+        "map.md",
+        "overview.md",
+        "schema.md"
+      ],
+      "symbols": []
+    },
     {
       "dir": "(root)",
       "fileCount": 11,
