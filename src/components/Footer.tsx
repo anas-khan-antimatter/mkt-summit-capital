@@ -33,7 +33,7 @@ export default function Footer() {
         <div className="grid gap-10 md:grid-cols-4">
           {/* Brand */}
           <div>
-            <span className="text-lg tracking-wider font-heading gold-gradient-text font-semibold">
+            <span className="text-lg tracking-wider font-heading brass-gradient-text font-semibold">
               Summit Capital
             </span>
             <p className="mt-3 max-w-xs text-xs leading-relaxed text-slate-500">
