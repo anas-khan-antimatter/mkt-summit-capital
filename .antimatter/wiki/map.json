@@ -1,14 +1,14 @@
 {
   "root": "/tmp/am-ws/c-1790732969824-7cbk3",
   "name": "c-1790732969824-7cbk3",
-  "generatedAt": "2026-09-30T20:00:28.593Z",
-  "fileCount": 52,
-  "dirCount": 15,
+  "generatedAt": "2026-10-01T04:22:37.420Z",
+  "fileCount": 56,
+  "dirCount": 19,
   "languages": {
     "Markdown": 8,
     "JSON": 5,
     "JavaScript": 2,
-    "TypeScript": 29,
+    "TypeScript": 33,
     "CSS": 1
   },
   "keyFiles": [
@@ -77,6 +77,40 @@
       ]
     },
     {
+      "dir": "src/app/allocator",
+      "fileCount": 1,
+      "files": [
+        "page.tsx"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/app/api/allocate",
+      "fileCount": 1,
+      "files": [
+        "route.ts"
+      ],
+      "symbols": [
+        {
+          "name": "POST",
+          "kind": "fn"
+        }
+      ]
+    },
+    {
+      "dir": "src/app/api/contact",
+      "fileCount": 1,
+      "files": [
+        "route.ts"
+      ],
+      "symbols": [
+        {
+          "name": "POST",
+          "kind": "fn"
+        }
+      ]
+    },
+    {
       "dir": "src/app/api/explain",
       "fileCount": 1,
       "files": [
@@ -99,6 +133,14 @@
     },
     {
       "dir": "src/app/contact",
+      "fileCount": 1,
+      "files": [
+        "page.tsx"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/app/glossary",
       "fileCount": 1,
       "files": [
         "page.tsx"
