@@ -3,6 +3,8 @@
 import Link from "next/link";
 import { useState } from "react";
 import { ArrowRight, ChevronDown, TrendingUp, Shield, Building2, Library, Coins, Landmark, TreePine, Scale, FileSearch, Plus } from "lucide-react";
+import RiskQuestionnaire from "@/components/marketing/RiskQuestionnaire";
+import ScenarioPlanner from "@/components/marketing/ScenarioPlanner";
 
 interface StrategyItem {
   title: string;
