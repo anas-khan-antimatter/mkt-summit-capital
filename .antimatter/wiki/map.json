@@ -1,14 +1,14 @@
 {
-  "root": "/tmp/am-ws/c-1790732969824-7cbk3",
-  "name": "c-1790732969824-7cbk3",
-  "generatedAt": "2026-10-01T04:22:37.420Z",
-  "fileCount": 56,
-  "dirCount": 19,
+  "root": "/tmp/am-ws/c-1790884291324-tolk5",
+  "name": "c-1790884291324-tolk5",
+  "generatedAt": "2026-10-02T22:12:55.463Z",
+  "fileCount": 57,
+  "dirCount": 20,
   "languages": {
     "Markdown": 8,
     "JSON": 5,
     "JavaScript": 2,
-    "TypeScript": 33,
+    "TypeScript": 34,
     "CSS": 1
   },
   "keyFiles": [
@@ -133,6 +133,14 @@
     },
     {
       "dir": "src/app/contact",
+      "fileCount": 1,
+      "files": [
+        "page.tsx"
+      ],
+      "symbols": []
+    },
+    {
+      "dir": "src/app/credit/private",
       "fileCount": 1,
       "files": [
         "page.tsx"
